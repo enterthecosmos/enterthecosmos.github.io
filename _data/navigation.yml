@@ -1,0 +1,23 @@
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: /quick-start/
+    description: "Start here!"
+  - title: "Preparing"
+    url: /preparing/
+    description: "If you're 1+ years out from applying"
+  - title: "Applying"
+    url: /applying/
+    description: "If you're currently applying"
+  - title: "Funding"
+    url: /funding/
+    description: "How to fund your studies"
+  - title: "About"
+    url: /about/
+    description: "About this website"
+  - title: "Sitemap"
+    url: /sitemap/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
