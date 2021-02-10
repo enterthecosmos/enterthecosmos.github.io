@@ -18,11 +18,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-GB"
 title                    : "enter_the_cosmos"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     :
-description              : "Make your graduate school applications out of this world!"
+subtitle                 : "Make your graduate school applications out of this world!"
+name                     : "enter_the_cosmos"
+description              : "A collection of tips, tricks, and resources to help you get the most out of your graduate school applications."
 url                      : "https://enterthecosmos.github.io"
-baseurl                  : "/home"
+baseurl                  :
 repository               : "enterthecosmos/enterthecosmos.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
