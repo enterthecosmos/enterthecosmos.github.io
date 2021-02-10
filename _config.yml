@@ -19,7 +19,7 @@ locale                   : "en-GB"
 title                    : "enter_the_cosmos"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Lernie"
+name                     : 
 description              : "Make your graduate school applications out of this world!"
 url                      : "https://enterthecosmos.github.io"
 baseurl                  : "/home"
