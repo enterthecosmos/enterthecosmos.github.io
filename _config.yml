@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-GB"
 title                    : "enter_the_cosmos"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : 
+name                     :
 description              : "Make your graduate school applications out of this world!"
 url                      : "https://enterthecosmos.github.io"
 baseurl                  : "/home"
