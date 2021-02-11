@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+    {{ content }}
+
+    {% assign page_categories = page.categories | split: ' ' %}
+    <div class="grid__wrapper">
+      {% for post in site.posts %}
+        {% assign do = true %}{% assign i = 0 %}
+        {% for category in page.categories %}
+          {% if category != post.categories[i] %}{% assign do = false %}{% endif %}
+          {% assign i = i | plus: 1 %}
+        {% endfor %}
+        {% if do %}{% include archive-single.html type="grid" %}{% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>

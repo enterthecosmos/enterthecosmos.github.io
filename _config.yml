@@ -282,6 +282,19 @@ defaults:
       comments: # true
       share: # true
       related: true
+  # _breadcrumbs
+  - scope:
+      path: ""
+      type: breadcrumbs
+    values:
+      layout: breadcrumb
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      sidebar:
+        nav: "sidebar"
 
 jekyll-archives:
   enabled:
