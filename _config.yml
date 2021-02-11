@@ -18,14 +18,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-GB"
 title                    : "enter_the_cosmos"
 title_separator          : "|"
-subtitle                 : "Make your graduate school applications out of this world!"
+subtitle                 : "the trials and tribulations of an astro phd"
 name                     : "enter_the_cosmos"
-description              : "A collection of tips, tricks, and resources to help you get the most out of your graduate school applications."
+description              : "the trials and tribulations of an astro phd"
 url                      : "https://enterthecosmos.github.io"
 baseurl                  :
 repository               : "enterthecosmos/enterthecosmos.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.png"
+logo                     : "/assets/images/logo_size.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
