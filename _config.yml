@@ -283,6 +283,6 @@ defaults:
       related: true
 
 collections:
-  - highschool
+  - pre-undergrad
   - undergrad
   - grad

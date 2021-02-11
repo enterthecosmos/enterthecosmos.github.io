@@ -1,7 +1,7 @@
 ---
 title: Pre-undergraduate
 layout: collection
-permalink: /highschool/
-collection: highschool
+permalink: /pre-undergrad/
+collection: pre-undergrad
 entries_layout: grid
 ---
