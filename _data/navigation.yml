@@ -3,6 +3,15 @@ main:
   - title: "Home"
     url: /
     description: "Start here!"
+  - title: "Pre-Undergraduate"
+    url: /highschool/
+    description: "For current high schoolers"
+  - title: "Undergraduate"
+    url: /undergrad/
+    description: "For current undergraduates"
+  - title: "Graduate"
+    url: /grad/
+    description: "For those who've already graduated from university"
   - title: "About"
     url: /about/
     description: "About this website"
