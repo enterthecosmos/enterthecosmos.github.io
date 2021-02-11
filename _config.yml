@@ -29,6 +29,7 @@ logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
+
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -280,3 +281,11 @@ defaults:
       comments: # true
       share: # true
       related: true
+
+collections_dir: my_collections
+collections:
+  - posts
+  - drafts
+  - highschool
+  - undergrad
+  - grad
