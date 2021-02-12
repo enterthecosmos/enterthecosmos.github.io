@@ -7,8 +7,6 @@ main:
   - title: "About"
     url: /about/
     description: "About this website"
-  - title: "Sitemap"
-    url: /sitemap/
   # - title: "Home"
   #   url: /
   #   description: "Start here!"
