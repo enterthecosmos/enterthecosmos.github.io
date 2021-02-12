@@ -7,22 +7,6 @@ main:
   - title: "About"
     url: /about/
     description: "About this website"
-  # - title: "Home"
-  #   url: /
-  #   description: "Start here!"
-  # - title: "Pre-Undergraduate"
-  #   url: /pre-undergrad/
-  #   description: "For current high schoolers"
-  # - title: "Undergraduate"
-  #   url: /undergrad/
-  #   description: "For current undergraduates"
-  # - title: "Graduate"
-  #   url: /grad/
-  #   description: "For those who've already graduated from university"
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
 
 alt-head:
   - title: "Home"
