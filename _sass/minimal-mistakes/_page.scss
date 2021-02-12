@@ -108,7 +108,7 @@ body {
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: 0.8em;
   }
 
   /* paragraph indents */
@@ -321,9 +321,10 @@ body {
 
 .page__taxonomy-item {
   display: inline-block;
+  font-size: $type-size-8;
   margin-right: 5px;
-  margin-bottom: 8px;
-  padding: 5px 10px;
+  margin-bottom: 5px;
+  padding: 5px 5px;
   text-decoration: none;
   border: 1px solid mix(#000, $border-color, 25%);
   border-radius: $border-radius;
@@ -367,7 +368,7 @@ body {
 
 .taxonomy__index {
   display: grid;
-  grid-column-gap: 2em;
+  grid-column-gap: 3em;
   grid-template-columns: repeat(2, 1fr);
   margin: 1.414em 0;
   padding: 0;

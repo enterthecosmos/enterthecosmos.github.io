@@ -19,7 +19,9 @@ Moving from that environment to the one I'm now in was a big challenge, not just
 from the cultural changes but also from the logistics of moving overseas as a
 lone 20-something for the first time!</p>
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/kings-college.jpg" alt="A wide shot of King's College in Cambridge from the front. The famous chapel, partially blocked by a tree, looms high above the street below. The buildings are decorated with gothic style parapets and high vaulted ceilings.">
+<p align="center">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/kings-college.jpg" alt="A wide shot of King's College in Cambridge from the front. The famous chapel, partially blocked by a tree, looms high above the street below. The buildings are decorated with gothic style parapets and high vaulted ceilings." width="500">
+</p>
 
 <p>It was only a few months later that COVID-19 was recognised worldwide and became
 a pandemic.</p>
@@ -28,13 +30,15 @@ a pandemic.</p>
 rather, attempted to) my PhD from the other side of the globe. Being separated
 from my research group, new friends, and ultimately my life was hard, but I
 don't regret going back home. I managed to pass my qualifying/upgrade exam (a
-horrible experience I *might* blog about one day) and got some much-needed
+horrible experience I <em>might</em> blog about one day) and got some much-needed
 sunlight.</p>
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/perth-aus-quarantine.jpg" alt="Me on arrival back home and entering quarantine, accompanied by my large orange suitcase and donning a mask.">
+<p align="center">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/perth-aus-quarantine.jpg" alt="Me on arrival back home and entering quarantine, accompanied by my large orange suitcase and donning a mask." width="250">
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/perth-aus-dog.jpg" alt="My parents'
-greyhound, Maggie, splayed out like a dead cockroach.">
+greyhound, Maggie, splayed out like a dead cockroach." width="250">
+</p>
 
 <p>I returned to the UK for the start of the new academic year in October 2020,
 re-entering a country that still suffers from an unmanaged, widespread outbreak

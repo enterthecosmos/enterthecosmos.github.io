@@ -16,5 +16,7 @@ alt-head:
     children:
       - title: "Search posts by tag"
         url: /tags/
+      - title: "Search posts by year"
+        url: /year-archive/
   - title: About
     url: /about/
