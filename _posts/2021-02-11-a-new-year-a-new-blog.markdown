@@ -3,25 +3,55 @@ layout: single
 title:  "A new year, a new blog"
 date:   2021-02-11
 categories: Blog
-tags: pandemic phd
+tags: pandemic phd meta
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<p>So, first post of a new blog!</p>
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+<p>I should probably start by giving a pseudo-introduction...</p>
 
-Jekyll also offers powerful support for code snippets:
+<p>I'm a 2nd year (out of 3-4) year PhD student in the UK, doing theoretical and
+computational astrophysics research.</p>
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+<p>Before starting my PhD in 2019, I lived overseas (in my home country) and
+attended a much less famous and prestigious university where I did my undergrad.
+Moving from that environment to the one I'm now in was a big challenge, not just
+from the cultural changes but also from the logistics of moving overseas as a
+lone 20-something for the first time!</p>
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/kings-college.jpg" alt="A wide shot of King's College in Cambridge from the front. The famous chapel, partially blocked by a tree, looms high above the street below. The buildings are decorated with gothic style parapets and high vaulted ceilings.">
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<p>It was only a few months later that COVID-19 was recognised worldwide and became
+a pandemic.</p>
+
+<p>I very quickly left the UK on the urging of my home country and continued (or,
+rather, attempted to) my PhD from the other side of the globe. Being separated
+from my research group, new friends, and ultimately my life was hard, but I
+don't regret going back home. I managed to pass my qualifying/upgrade exam (a
+horrible experience I *might* blog about one day) and got some much-needed
+sunlight.</p>
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/perth-aus-quarantine.jpg" alt="Me on arrival back home and entering quarantine, accompanied by my large orange suitcase and donning a mask.">
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/perth-aus-dog.jpg" alt="My parents'
+greyhound, Maggie, splayed out like a dead cockroach.">
+
+<p>I returned to the UK for the start of the new academic year in October 2020,
+re-entering a country that still suffers from an unmanaged, widespread outbreak
+even today (Feb 2021). I returned to lockdowns and testing and anxiety. But I
+also returned to a household of new people, one of whom is now my partner!
+Now, we're looking at houses and planning a future together, although there's
+still so much we don't know and it's so hard to predict what the world, or our
+own interests, will look like in 12 months.</p>
+
+<p>All in all, things are confusing. There have been really bad days, but there
+have also been quite a few very good days. Without the pandemic and everything
+else, perhaps I would not have met my current partner. Perhaps I would not have
+passed my qualifier. I certainly would not have gotten to see my family at home.
+To take away the bad bits I'd have to take away the good, too.</p>
+
+<p>Anyway, I've heard it said before that you should write out your thoughts to get
+them organised, so that's what I'll be doing here! Hopefully at least some of my
+stories will be interesting and very few will be (too) ignorant.</p>
+
+<p>Happy to make your acquaintance, anonymous reader!</p>

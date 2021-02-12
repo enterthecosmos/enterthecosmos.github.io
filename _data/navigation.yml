@@ -23,3 +23,14 @@ main:
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
+
+alt-head:
+  - title: "Home"
+    url: /
+  - title: "Blog"
+    url: /blog/
+    children:
+      - title: "Search posts by tag"
+        url: /tags/
+  - title: About
+    url: /about/
