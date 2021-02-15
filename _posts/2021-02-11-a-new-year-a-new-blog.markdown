@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "A new year, a new blog"
+title:  "a new year, a new blog"
 date:   2021-02-11
 categories: Blog
 tags: pandemic phd meta
