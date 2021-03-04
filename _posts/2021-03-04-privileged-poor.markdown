@@ -48,6 +48,6 @@ Someone who attends a magnet high school will be ahead of someone who "only" see
 
 In the above examples, I see myself mostly in James. My undergraduate institution was rather average and focussed on work readiness, but through random chance I found myself doing research. Eventually, that lead me to get a full cost scholarship to do my PhD at Cambridge. Making that jump has been difficult, but I see the additional benefits I get just by being here. I see the insane wealth of this institution and how it opens doors for its graduates regardless of their background prior. I am privileged by being here, and it is not right that I (and others like Tom and Harry) should get such overwhelming public recognition for our sob stories.
 
-<blockquote>I was disadvantaged up until PhD, but now it is time to set that role aside and accept that I am, at least to some extent, privileged and elite.</blockquote>
+I was disadvantaged up until PhD, but now it is time to set that role aside and accept that I am, at least to some extent, privileged and elite.
 
 [^1]: okay, it was an internet argument...
