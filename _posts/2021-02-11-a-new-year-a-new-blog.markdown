@@ -20,7 +20,7 @@ from the cultural changes but also from the logistics of moving overseas as a
 lone 20-something for the first time!
 
 <p align="center">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/kings-college.jpg" alt="A wide shot of King's College in Cambridge from the front. The famous chapel, partially blocked by a tree, looms high above the street below. The buildings are decorated with gothic style parapets and high vaulted ceilings." width="500">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/kings-college.jpg" alt="A wide shot of King's College in Cambridge from the front. The famous chapel, partially blocked by a tree, looms high above the street below. The buildings are decorated with gothic style parapets and high vaulted ceilings." title="King's College, Cambridge" width="500">
 </p>
 
 It was only a few months later that COVID-19 was recognised worldwide and became
@@ -34,10 +34,10 @@ horrible experience I *might* blog about one day) and got some much-needed
 sunlight.
 
 <p align="center">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/perth-aus-quarantine.jpg" alt="Me on arrival back home and entering quarantine, accompanied by my large orange suitcase and donning a mask." width="250">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/perth-aus-quarantine.jpg" alt="Me on arrival back home and entering quarantine, accompanied by my large orange suitcase and donning a mask." title="My arrival" width="250">
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/perth-aus-dog.jpg" alt="My parents'
-greyhound, Maggie, splayed out like a dead cockroach." width="250">
+greyhound, Maggie, splayed out like a dead cockroach." title="Maggie giving her best cockroach impression" width="250">
 </p>
 
 I returned to the UK for the start of the new academic year in October 2020,
