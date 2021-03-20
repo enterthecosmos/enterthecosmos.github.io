@@ -18,7 +18,7 @@ Things have been a little rough lately and I've been feeling under extra pressur
 
 I nearly cried at that! No one has **ever** given me unrestricted permission to be myself, it always came with judgement, jealousy, concern, or guilt. It has only ever been a compromise that others begrudgingly made, always with a strong message of "I'm making a sacrifice for you and you owe me one".
 
-To finally be accepted for who I am is ecstatic. :heart:
+To finally be accepted for who I am is ecstatic. ❤️
 
 <p align="center">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sunflower.jpg" alt="" title="A field of sunflowers; his favourite." width="250">
