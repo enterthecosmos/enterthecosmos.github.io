@@ -21,5 +21,5 @@ I nearly cried at that! No one has **ever** given me unrestricted permission to 
 To finally be accepted for who I am is ecstatic. :heart:
 
 <p align="center">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/perth-aus-quarantine.jpg" alt="Me on arrival back home and entering quarantine, accompanied by my large orange suitcase and donning a mask." width="250">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/sunflower.jpg" alt="" title="A field of sunflowers; his favourite." width="250">
 </p>
