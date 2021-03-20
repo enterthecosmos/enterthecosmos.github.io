@@ -3,7 +3,7 @@ layout: single
 title:  "vaccination day 0"
 date:   2021-02-27
 categories: Blog
-tags: pandemic opinion society
+tags: pandemic personal
 ---
 
 I got the first shot of the vaccine today!

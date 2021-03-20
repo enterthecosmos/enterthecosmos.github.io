@@ -3,7 +3,7 @@ layout: single
 title:  "vaccination day 2, also MARCH"
 date:   2021-03-01
 categories: Blog
-tags: pandemic
+tags: pandemic personal
 ---
 
 It's Monday today, the 1st of March 2021!

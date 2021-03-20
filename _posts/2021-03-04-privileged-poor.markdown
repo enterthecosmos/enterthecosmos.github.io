@@ -3,7 +3,7 @@ layout: single
 title:  "on the privileged poor"
 date:   2021-03-04
 categories: Blog
-tags: society opinion access
+tags: opinion personal
 ---
 
 I was having a discussion recently[^1] over a tweet about first-gen status and the struggles we face compared to our peers with college-educated parents:
